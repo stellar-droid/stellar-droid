@@ -62,4 +62,4 @@
 
 ![Lokesh's github stats](https://github-readme-stats.vercel.app/api?username=LokeshWani&show_icons=true&title_color=0299da&icon_color=ff5e00&text_color=2ee300&bg_color=fff0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshWani&langs_count=8&layout=compact&text_color=2ee300&bg_color=fff0)
+![Top Langs](https://github.com/stellar-droid/github-status/api/top-langs/?username=LokeshWani&langs_count=8&layout=compact&text_color=2ee300&bg_color=fff0)
