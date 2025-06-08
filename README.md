@@ -10,7 +10,7 @@
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **MERN Stack**
 <!-- - 💞️ I’m looking to collaborate on any **Full stack Web Development Projects** -->
-- 📫 How to reach me **wanilokesh095@yahoo.com**
+- 📫 How to reach me **wanilokesh04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="www.linkedin.com/in/lokeshwani04">
